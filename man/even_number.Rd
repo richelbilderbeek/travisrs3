@@ -4,7 +4,10 @@
 \alias{even_number}
 \title{Create an even number}
 \usage{
-even_number(x)
+even_number(value)
+}
+\arguments{
+\item{value}{value for the even number}
 }
 \description{
 Create an even number
