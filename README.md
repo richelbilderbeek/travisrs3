@@ -1,2 +1,7 @@
 # travisrs3
+
+Branch  |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)                                                                            |[![AppVeyor logo](pics/AppVeyor.png)](https://www.appveyor.com)                                                                                                                   |[![Codecov logo](pics/Codecov.png)](https://www.codecov.io)
+--------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+master  |[![Build Status](https://travis-ci.org/richelbilderbeek/travisrs3.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travisrs3)  |[![Build status](https://ci.appveyor.com/api/projects/status/vr5jkcx975w1ggcn/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/travisrs3/branch/master)  |[![codecov.io](https://codecov.io/github/richelbilderbeek/travisrs3/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/travisrs3/branch/master)
+
 Minimal example of using an S3 class in an R package that passes a Travis CI build

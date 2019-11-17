@@ -1,0 +1,22 @@
+Package: travisrs3
+Title: Minimal Example Of S3 Classes
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Richel",
+           family = "Bilderbeek",
+           role = c("aut", "cre"),
+           email = "richel@richelbilderbeek.nl",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package displays a minimal example of
+    using S3 classes, while also being tested rigorously on
+    Travis CI. S3 classes are the most informal form of 
+    object oriented programming in R. Travis CI is a
+    continuous integration service that checks the package
+    thoroughly for points to improve.
+License: GPL-3
+Suggests: 
+    testthat (>= 2.1.0)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
