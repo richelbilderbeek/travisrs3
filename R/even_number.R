@@ -1,5 +1,6 @@
 #' Create an even number
 #' @param value value for the even number
+#' @method print even_number
 #' @export
 even_number <- function(value) {
   if (!(value %% 2 == 0)) {

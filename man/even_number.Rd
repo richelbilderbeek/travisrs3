@@ -4,7 +4,7 @@
 \alias{even_number}
 \title{Create an even number}
 \usage{
-even_number(value)
+\method{print}{even_number}(value)
 }
 \arguments{
 \item{value}{value for the even number}
