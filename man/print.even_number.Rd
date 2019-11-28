@@ -4,10 +4,10 @@
 \alias{print.even_number}
 \title{Print an even number}
 \usage{
-\method{print}{even_number}(even_number)
+\method{print}{even_number}(value)
 }
 \arguments{
-\item{even_number}{an even number of S3 class \link{even_number}}
+\item{value}{an even number of S3 class \link{even_number}}
 }
 \description{
 Print an even number
