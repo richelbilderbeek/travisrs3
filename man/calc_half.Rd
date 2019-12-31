@@ -6,6 +6,12 @@
 \usage{
 calc_half(x)
 }
+\arguments{
+\item{x}{an \link{even_number} to take the half of}
+}
+\value{
+an \link{odd_number}
+}
 \description{
 Calculate half the value of x
 }

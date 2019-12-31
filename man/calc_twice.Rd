@@ -6,6 +6,13 @@
 \usage{
 calc_twice(x)
 }
+\arguments{
+\item{x}{an \link{even_number} or \link{odd_number} to calculate
+twice its value of}
+}
+\value{
+an \link{even_number}
+}
 \description{
 Calculate twice the value of x
 }
